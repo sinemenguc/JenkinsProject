@@ -38,14 +38,6 @@ public class JenkinsTest {
 	void Test9(){
 		assertTrue(true);
 	}
-	@Test
-	void Test11(){
-		assertTrue(true);
-	}
-    @Test
-    void Test12(){
-        assertTrue(true);
-    }
 
 
 
