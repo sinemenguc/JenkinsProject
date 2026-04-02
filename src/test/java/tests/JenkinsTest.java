@@ -42,6 +42,10 @@ public class JenkinsTest {
 	void Test11(){
 		assertTrue(false);
 	}
+    @Test
+    void Test12(){
+        assertTrue(false);
+    }
 
 
 }
